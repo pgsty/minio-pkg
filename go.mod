@@ -1,8 +1,7 @@
 module github.com/minio/pkg/v3
 
-go 1.24.0
+go 1.26.1
 
-toolchain go1.25.5
 
 require (
 	github.com/cheggaaa/pb v1.0.29
